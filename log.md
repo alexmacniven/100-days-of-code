@@ -11,3 +11,11 @@ Completed freecodecamp Basic Algorithm Scripting
 [Where Do I Belong](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/where-do-i-belong)  
 [Mutations](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/mutations)  
 [Chunky Monkey](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/chunky-monkey)
+
+## Day 1: June 28th, 2020
+
+### Today's Progress
+Built a simple web app to calculate factorials
+
+### Link to work
+[Factorial Caclulator](https://alexmacniven.github.io/factorial-calculator/)
