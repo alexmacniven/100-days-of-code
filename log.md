@@ -19,3 +19,11 @@ Built a simple web app to calculate factorials
 
 ### Link to work
 [Factorial Caclulator](https://alexmacniven.github.io/factorial-calculator/)
+
+## Day 2: June 29th, 2020
+
+## Today's Progress
+Studied freecodecamp Object Oriented Programming
+
+### Link to work
+[Challenge Timeline](https://www.freecodecamp.org/alex_macniven#universal-nav-logo:~:text=Challenge)
