@@ -27,3 +27,11 @@ Studied freecodecamp Object Oriented Programming
 
 ### Link to work
 [Challenge Timeline](https://www.freecodecamp.org/alex_macniven#universal-nav-logo:~:text=Challenge)
+
+## Day 3: June 30th, 2020
+
+## Today's Progress
+Completed more challenges at freecodecamp Object Oriented Programming
+
+### Link to work
+[Challenge Timeline](https://www.freecodecamp.org/alex_macniven)
