@@ -35,3 +35,11 @@ Completed more challenges at freecodecamp Object Oriented Programming
 
 ### Link to work
 [Challenge Timeline](https://www.freecodecamp.org/alex_macniven)
+
+## Day 4: July 1st 2020
+
+## Today's Progress
+Completed challenges on Inheritence in Object Oriented Programming
+
+### Link to work
+[Challenge Timeline](https://www.freecodecamp.org/alex_macniven)
