@@ -22,7 +22,7 @@ Built a simple web app to calculate factorials
 
 ## Day 2: June 29th, 2020
 
-## Today's Progress
+### Today's Progress
 Studied freecodecamp Object Oriented Programming
 
 ### Link to work
@@ -30,7 +30,7 @@ Studied freecodecamp Object Oriented Programming
 
 ## Day 3: June 30th, 2020
 
-## Today's Progress
+### Today's Progress
 Completed more challenges at freecodecamp Object Oriented Programming
 
 ### Link to work
@@ -38,7 +38,7 @@ Completed more challenges at freecodecamp Object Oriented Programming
 
 ## Day 4: July 1st 2020
 
-## Today's Progress
+### Today's Progress
 Completed challenges on Inheritence in Object Oriented Programming
 
 ### Link to work
