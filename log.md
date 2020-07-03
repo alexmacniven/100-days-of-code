@@ -43,3 +43,22 @@ Completed challenges on Inheritence in Object Oriented Programming
 
 ### Link to work
 [Challenge Timeline](https://www.freecodecamp.org/alex_macniven)
+
+## Day 5: July 2nd 2020
+
+### Today's Progress
+Completed final challenges in Object Oriented Programming
+
+### Link to Work
+[Challenge Timeline](https://www.freecodecamp/alex_macniven)
+
+## Day 6: July 3rd 2020
+
+### Today's Progress
+Started Functional Programming module
+
+### Thoughts
+Excited to study this topic further to see how powerful functional programming JS can be
+
+### Link to Work
+[Challenge Timeline](https://www.freecodecamp/alex_macniven)
