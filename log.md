@@ -62,3 +62,14 @@ Excited to study this topic further to see how powerful functional programming J
 
 ### Link to Work
 [Challenge Timeline](https://www.freecodecamp/alex_macniven)
+
+## Day 7: July 5th 2020
+
+### Today's Progress
+Continued studying Functional Programming including `map`, `filter`, and `slice` implementation.
+
+### Thoughts
+`Array.prototype` functions and arrow functions are becoming *a lot* clearer with regular usage.
+
+### Link to Work
+[Challenge Timeline](https://www.freecodecamp/alex_macniven)
