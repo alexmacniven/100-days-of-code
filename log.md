@@ -73,3 +73,26 @@ Continued studying Functional Programming including `map`, `filter`, and `slice`
 
 ### Link to Work
 [Challenge Timeline](https://www.freecodecamp/alex_macniven)
+
+## Day 8: July 6th 2020
+
+### Today's Progress
+Applied higher-order functions to solve problems and studied the `sort` functionality.
+
+### Thoughts
+I'm becoming more confident in problem solving using the built-in array methods.
+
+### Link to Work
+[Challenge Timeline](https://www.freecodecamp/alex_macniven)
+
+## Day 9: July 7th 2020
+
+## Today's Progress
+Studied the functionality of array splitting and joining. 
+Also implemented currying and partial application.
+
+### Thoughts
+I'm keen on partial application, it looks like it could be used to pass default arguments to function in a clean way.
+
+### Link to Work
+[Challenge Timeline](https://www.freecodecamp/alex_macniven)
