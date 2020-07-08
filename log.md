@@ -87,12 +87,23 @@ I'm becoming more confident in problem solving using the built-in array methods.
 
 ## Day 9: July 7th 2020
 
-## Today's Progress
+### Today's Progress
 Studied the functionality of array splitting and joining. 
 Also implemented currying and partial application.
 
 ### Thoughts
 I'm keen on partial application, it looks like it could be used to pass default arguments to function in a clean way.
+
+### Link to Work
+[Challenge Timeline](https://www.freecodecamp/alex_macniven)
+
+## Day 10: July 8th 2020
+
+### Today's Progress
+Completed challenges on Intermediate Algorithm Scripting
+
+### Thoughts
+Enjoying the challenge of implementing concepts I've learnt so far 🙂
 
 ### Link to Work
 [Challenge Timeline](https://www.freecodecamp/alex_macniven)
