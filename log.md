@@ -107,3 +107,14 @@ Enjoying the challenge of implementing concepts I've learnt so far 🙂
 
 ### Link to Work
 [Challenge Timeline](https://www.freecodecamp/alex_macniven)
+
+## Day 11: July 10th 2020
+
+### Today's Progress
+Worked on challenges for Intermediate Algorithm Scripting
+
+### Thoughts
+Installing NodeJs to work on solutions locally was a great move!
+
+### Link to Work
+[Challenge Timeline](https://www.freecodecamp/alex_macniven)
