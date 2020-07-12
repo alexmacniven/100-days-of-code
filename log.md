@@ -118,3 +118,26 @@ Installing NodeJs to work on solutions locally was a great move!
 
 ### Link to Work
 [Challenge Timeline](https://www.freecodecamp/alex_macniven)
+
+## Day 12: July 11th 2020
+
+### Today's Progress
+Worked on yet more challenges for Intermediate Algorithm Scripting
+
+### Thoughts
+The challenges are getting progressively more challenging!
+
+### Link to Work
+[Challenge Timeline](https://www.freecodecamp/alex_macniven)
+
+## Day 13: July 12th 2020
+
+### Today's Progress
+I worked solely on a solution to [Smallest Common Multiple](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/smallest-common-multiple)
+
+### Thoughts
+Definitely the most challenging thus far.
+My solution maybe a convoluted, I should post on the forums for feedback.
+
+### Link to Work
+[Challenge Timeline](https://www.freecodecamp/alex_macniven)
