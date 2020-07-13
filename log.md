@@ -141,3 +141,14 @@ My solution maybe a convoluted, I should post on the forums for feedback.
 
 ### Link to Work
 [Challenge Timeline](https://www.freecodecamp/alex_macniven)
+
+## Day 14: July 13th 2020
+
+### Today's Progress
+Completed the Intermediate Algorithm Scripting module 🥳
+
+### Thoughts
+Some of the tasks were pretty challenging, but I'm pleased I stuck with them and found solutions without using `hints`.
+
+### Link to Work
+[Challenge Timeline](https://www.freecodecamp/alex_macniven)
