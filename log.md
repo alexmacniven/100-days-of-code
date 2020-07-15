@@ -152,3 +152,19 @@ Some of the tasks were pretty challenging, but I'm pleased I stuck with them and
 
 ### Link to Work
 [Challenge Timeline](https://www.freecodecamp/alex_macniven)
+
+## Day 15: July 14th 2020
+
+### Today's Progress
+Completed a solution for a Palindrome Checking algorithm
+
+### Link to Work
+[Palindrome Checker](https://github.com/alexmacniven/algorithms/blob/master/javascript/palindrome_checker.js)
+
+## Day 16: July 15th 2020
+
+### Today's Progress
+Completed a solution for a Roman Numeral Converter algorithm
+
+### Link to Work
+[Roman Numeral Converter](https://github.com/alexmacniven/algorithms/blob/master/javascript/roman_numeral_converter.js)
