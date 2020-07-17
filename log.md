@@ -168,3 +168,19 @@ Completed a solution for a Roman Numeral Converter algorithm
 
 ### Link to Work
 [Roman Numeral Converter](https://github.com/alexmacniven/algorithms/blob/master/javascript/roman_numeral_converter.js)
+
+## Day 17: July 16th 2020
+
+### Today's Progress
+Completed a solution for a Caesar Cipher algorithm
+
+### Link to Work
+[Caesar Cipher](https://github.com/alexmacniven/algorithms/blob/master/javascript/caesars_cipher.js)
+
+## Day 18: July 17th 2020
+
+### Today's Progress
+Completed a solution for a Telephone Number Validator algorithm
+
+### Link to Work
+[Telephone Number Validator](https://github.com/alexmacniven/algorithms/blob/master/javascript/telephone_number_validator.js)
