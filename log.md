@@ -184,3 +184,12 @@ Completed a solution for a Telephone Number Validator algorithm
 
 ### Link to Work
 [Telephone Number Validator](https://github.com/alexmacniven/algorithms/blob/master/javascript/telephone_number_validator.js)
+
+## Day 19: July 19th 2020
+
+### Today's Progress
+Completed Cash Register algorithm  
+Completed JavaScript Algorithms and Data Structures 🥳
+
+### Link to Work
+[Cash Register](https://github.com/alexmacniven/algorithms/blob/master/javascript/cash_register.js)
