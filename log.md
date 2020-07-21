@@ -193,3 +193,19 @@ Completed JavaScript Algorithms and Data Structures 🥳
 
 ### Link to Work
 [Cash Register](https://github.com/alexmacniven/algorithms/blob/master/javascript/cash_register.js)
+
+## Day 20: July 20th 2020
+
+### Today's Progress
+Completed some Bootstrap challenges for Frontend Libraries Certificate  
+
+### Link to Work
+[Challenge Timeline](https://www.freecodecamp/alex_macniven)
+
+## Day 21: July 21st 2020
+
+### Today's Progress
+Completed some (more) Bootstrap challenges for Frontend Libraries Certificate
+
+### Link to Work
+[Challenge Timeline](https://www.freecodecamp/alex_macniven)
