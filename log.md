@@ -209,3 +209,11 @@ Completed some (more) Bootstrap challenges for Frontend Libraries Certificate
 
 ### Link to Work
 [Challenge Timeline](https://www.freecodecamp/alex_macniven)
+
+## Day 22: July 22nd 2020
+
+### Today's Progress
+Completed the Bootstrap unit for Frontend Libraries Certificate at freecodecamp
+
+### Link to Work
+[Challenge Timeline](https://www.freecodecamp/alex_macniven)
