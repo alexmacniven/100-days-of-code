@@ -217,3 +217,20 @@ Completed the Bootstrap unit for Frontend Libraries Certificate at freecodecamp
 
 ### Link to Work
 [Challenge Timeline](https://www.freecodecamp/alex_macniven)
+
+## Day 23: July 25th 2020
+
+### Today's Progress
+Worked towards completing the jQuery unit for Front End Libaries Certifcation at freecodecamp
+
+### Link to Work
+[Challenge Timeline](https://www.freecodecamp/alex_macniven)
+
+## Day 24: July 27th 2020
+
+### Today's Progress
+Completed the jQuery unit for Front End Libaries Certifcation at freecodecamp
+
+### Link to Work
+[Challenge Timeline](https://www.freecodecamp/alex_macniven)
+
