@@ -234,3 +234,18 @@ Completed the jQuery unit for Front End Libaries Certifcation at freecodecamp
 ### Link to Work
 [Challenge Timeline](https://www.freecodecamp/alex_macniven)
 
+## Day 25: July 28th 2020
+
+### Today's Progress
+Completed the Sass unit for Front End Libraries Certification at freecodecamp
+
+### Link to Work
+[Challenge Timeline](https://www.freecodecamp/alex_macniven)
+
+## Day 26: July 29th 2020
+
+### Today's Progress
+Worked towards completing the React unit for Front End Libraries Certification at freecodecamp
+
+### Link to Work
+[Challenge Timeline](https://www.freecodecamp/alex_macniven)
